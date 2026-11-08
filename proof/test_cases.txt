@@ -1,0 +1,28 @@
+STUDENT REGISTRATION SYSTEM - TEST CASES
+
+Test 1: Valid student details
+Expected: Student record should be accepted.
+
+Test 2: Missing name
+Expected: Record should be rejected with a missing name message.
+
+Test 3: Invalid phone number
+Expected: Record should be rejected with an invalid phone message.
+
+Test 4: Invalid email address
+Expected: Record should be rejected with an invalid email message.
+
+Test 5: Duplicate phone number
+Expected: Duplicate record should be rejected.
+
+Test 6: Search student by name
+Expected: Matching student details should be displayed.
+
+Test 7: Register a new student
+Expected: New student should be added successfully.
+
+Test 8: Update student details
+Expected: Student details should be updated successfully.
+
+Test 9: Delete a student
+Expected: Student record should be deleted successfully.
